@@ -6,7 +6,7 @@ This project detects diseases in various fruits using **image preprocessing**, *
 
 ## 🧠 Features
 
-- Upload fruit leaf dataset
+- Upload fruit dataset
 - Apply image preprocessing (resize, normalize, clean)
 - Perform **KMeans segmentation** to highlight affected areas
 - Extract features (color histogram, texture, etc.)
